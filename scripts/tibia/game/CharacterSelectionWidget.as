@@ -19,7 +19,7 @@ package tibia.game
    public class CharacterSelectionWidget extends PopUpBase
    {
       
-      public static const CLIENT_VERSION:uint = 2420;
+      public static const CLIENT_VERSION:uint = 2431;
       
       public static const CLIENT_PREVIEW_STATE:uint = 0;
       
